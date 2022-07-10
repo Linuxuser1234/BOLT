@@ -1,0 +1,6 @@
+A.I.M.S is short for Advanced Interactive Mapping System
+its purpose is for projecting interactive models on a map
+in the future there will be tools like H.E.A.D.S or Hook Echo Advanced Detection System and S.I.P.S or Skewt interactive plotting System on the map there are dots where you can click
+on to visualize the data also for HEADS when it detects a hock echo there will be a dotted circle icon that spins on the map and when you hover over it it will say "possible tornado seek shelter "
+also there is H.I.P.S or Hodograph interactive processing system does the same thing as SIPS
+THIS IS VERY EARLY ACCESS V1.0

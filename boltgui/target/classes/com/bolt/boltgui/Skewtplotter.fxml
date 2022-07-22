@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.shape.*?>
+<?import javafx.scene.text.*?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="733.0" prefWidth="566.0" style="-fx-background-color: rgb(61,61,61);" xmlns="http://javafx.com/javafx/11.0.14-internal" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.bolt.boltgui.SCBC">
+   <children>
+      <Label layoutX="14.0" layoutY="66.0" text="Station:" textFill="#00ff0d">
+         <font>
+            <Font size="24.0" />
+         </font>
+      </Label>
+      <ComboBox id="Soundings" fx:id="Soundings" layoutX="102.0" layoutY="109.0" prefWidth="150.0" promptText="Soundings" />
+      <Label layoutX="88.0" layoutY="14.0" text="Skew-t log p Selection Plotting Interface v1.0" textFill="#00ff22">
+         <font>
+            <Font size="20.0" />
+         </font>
+      </Label>
+      <Line endX="304.0" layoutX="224.0" layoutY="44.0" startX="-196.0" stroke="#00ff22" />
+      <Button layoutX="252.0" layoutY="150.0" mnemonicParsing="false" prefHeight="25.0" prefWidth="150.0" text="Apply" />
+      <ComboBox fx:id="Station" layoutX="102.0" layoutY="71.0" prefWidth="150.0" promptText="Station id" />
+      <Label layoutX="36.0" layoutY="104.0" prefHeight="35.0" prefWidth="70.0" text="Type:" textFill="#00ff0d">
+         <font>
+            <Font size="24.0" />
+         </font>
+      </Label>
+   </children>
+</AnchorPane>
